@@ -3,18 +3,11 @@
   "version": "1.0",
   "description": "pathg is a standalone distribution of the path drawing code of canvg, a svg to canvas render.",
   "main": "pathg.js",
-  "scripts": {
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prudentpublishing/pathg-of-canvg.git"
   },
   "author": "makeConstruct <https://github.com/makoConstruct>",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "https://github.com/prudentpublishing/pathg-of-canvg#readme",
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/prudentpublishing/pathg-of-canvg#readme"
 }
