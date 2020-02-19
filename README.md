@@ -1,5 +1,7 @@
 ##pathg
 
+Initially cloned from https://github.com/makoConstruct/pathg-of-canvg
+
 Sometimes you want to render a path you've specified in the svg format to a canvas, but you don't need or want the full functionality of an svg renderer, just the ability to draw a single shape.
 
 pathg is a standalone distribution of the path drawing code of [canvg](https://code.google.com/p/canvg/), a svg to canvas render.
